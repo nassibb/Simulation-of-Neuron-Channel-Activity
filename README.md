@@ -1,0 +1,3 @@
+This notebook implements a Hodgkin–Huxley–style neuron model to study voltage-dependent ion channel behavior and action potential formation. The system is solved using multiple numerical integration techniques (Euler, RK2, RK4) to analyze tradeoffs between computational efficiency and numerical accuracy during fast nonlinear voltage dynamics.
+
+Through voltage clamp experiments, activation/inactivation curves, and parameter shifts, the model demonstrates how gating kinetics regulate signal propagation and neuronal excitability. This project emphasizes the importance of numerical methods in computational neuroscience and shows how complex neural behavior can emerge from coupled differential equations.
